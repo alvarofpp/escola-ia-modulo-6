@@ -57,10 +57,10 @@ Será ofertado um total de 4 aulas, sendo elas:
 
 | Aula | Data       | Descrição |
 | ---- | ---------- | --------- |
-| 1    | 15/11/2019 | Ferramentas e conceitos elementares  |
-| 2    | 17/11/2019 | superajuste e sobajuste |
-| 3    | 22/11/2019 | Classes raras, bootstraping e seleção de características |
-| 4    | 24/11/2019 | grupos de teste e treino, validação e seleção de modelo |
+| 1    | 15/10/2019 | Ferramentas e conceitos elementares  |
+| 2    | 17/10/2019 | superajuste e sobajuste |
+| 3    | 22/10/2019 | Classes raras, bootstraping e seleção de características |
+| 4    | 24/10/2019 | grupos de teste e treino, validação e seleção de modelo |
 
 ## Ferramentas
 As ferramentas que iremos utilizar nesse módulo serão:
