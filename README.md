@@ -39,9 +39,9 @@ Após esse módulo vocês ainda terão:
 O módulo pretende apresentar os seguintes tópicos:
 
 - Conceitos Elementares
-- Superajuste
-- Sobajuste
-- Classes Raras e Bootstraping
+- Subajuste
+- Sobreajustado
+- Classes Raras e Bootstrapping
 - Seleção de Características
   - Wrapper
   - Filter
@@ -57,10 +57,10 @@ Será ofertado um total de 4 aulas, sendo elas:
 
 | Aula | Data       | Descrição |
 | ---- | ---------- | --------- |
-| 1    | 15/10/2019 | Ferramentas e conceitos elementares  |
-| 2    | 17/10/2019 | superajuste e sobajuste |
-| 3    | 22/10/2019 | Classes raras, bootstraping e seleção de características |
-| 4    | 24/10/2019 | grupos de teste e treino, validação e seleção de modelo |
+| 1    | 15/10/2019 | Overview do módulo, ferramentas e conceitos elementares |
+| 2    | 17/10/2019 | Subajuste e sobreajustado |
+| 3    | 22/10/2019 | Classes raras, bootstrapping e seleção de características |
+| 4    | 24/10/2019 | Grupos de teste e treino, validação e seleção de modelo |
 
 ## Ferramentas
 As ferramentas que iremos utilizar nesse módulo serão:
