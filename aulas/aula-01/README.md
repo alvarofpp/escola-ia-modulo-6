@@ -9,8 +9,8 @@ Essa aula possui como objetivo apresentar o módulo, as ferramentas que iremos u
 ## Referências e matériais extras
 
 - PDF/Slide:
-  - [Aprendizado Supervisionado de Máquina 01](Ap_Supervisionado01.pdf)
-  - [Análise de Dados e Interpretação de Resultados](DL03_Analise_Interpretacao.pdf)
+  - [Aprendizado Supervisionado de Máquina 01](extras/Ap_Supervisionado01.pdf)
+  - [Análise de Dados e Interpretação de Resultados](extras/DL03_Analise_Interpretacao.pdf)
 - Link:
   - [What is bias in machine learning algorithms?](https://www.quora.com/What-is-bias-in-machine-learning-algorithms)
   - [Amostragem: O que é e por quê funciona](https://www.netquest.com/blog/br/blog/br/amostragem-porque-funciona)
