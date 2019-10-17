@@ -1,7 +1,7 @@
 # Aula 02
 Essa aula possui como objetivo apresentar alguns ajustes que podemos fazer em nosso modelo para evitarmos _overfitting_ (sobreajuste) e _underfitting_ (sub-ajuste). 
 
-- **Data**: 15/10/2019.
+- **Data**: 17/10/2019.
 - **Materiais**:
   - [Intro](intro.md)
   - [Overfitting](overfitting.md)
