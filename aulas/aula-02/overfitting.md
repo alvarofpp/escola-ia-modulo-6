@@ -16,7 +16,7 @@ Abaixo coloco algumas técnicas de regularização que podem ser usadas.
 
 Também conhecida como **decaimento de peso**, consiste em adicionar um termo extra (chamado de termo de regularização) à função de custo. Iremos chamar de $J_{0}$ a função de custo original e não regularizada. Dessa forma, adicionando o termo de regularização, temos:
 
-![img-regularizacao-L2](../../imgs/regularizacao-L2.png)
+![img-regularizacao-L2](../../imgs/regularizacao/regularizacao-L2.png)
 
 Intuitivamente, o efeito da regularização é fazer com que a rede prefira aprender pequenos pesos, sendo todas as outras coisas iguais. Pesos grandes só serão permitidos se melhorarem consideravelmente a primeira parte da função de custo. Dito de outra forma, a regularização pode ser vista como uma forma de se comprometer entre encontrar pequenos pesos e minimizar a função de custo original. A importância relativa dos dois elementos do compromisso depende do valor de $\lambda$:
 
@@ -27,7 +27,7 @@ Intuitivamente, o efeito da regularização é fazer com que a rede prefira apre
 
 Nesta abordagem, modificamos a função de custo não regularizada, adicionando a soma dos valores absolutos dos pesos:
 
-![img-regularizacao-L1](../../imgs/regularizacao-L1.png)
+![img-regularizacao-L1](../../imgs/regularizacao/regularizacao-L1.png)
 
 Intuitivamente, isso é semelhante à regularização L2, penalizando grandes pesos e tendendo a fazer com que a rede prefira pequenos pesos. Naturalmente, o termo de regularização L1 não é o mesmo que o termo de regularização L2 e, portanto, não devemos esperar obter exatamente o mesmo comportamento.
 
