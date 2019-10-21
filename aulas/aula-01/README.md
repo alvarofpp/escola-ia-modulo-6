@@ -1,5 +1,5 @@
 # Aula 01
-Essa aula possui como objetivo apresentar o módulo, as ferramentas que iremos utilizar durante o módulo e mostrar conceitos elementares que devemos ter em mente durante o decorrer desse módulo. 
+Essa aula possui como objetivo apresentar o módulo, as ferramentas que iremos utilizar durante o módulo e mostrar conceitos elementares que devemos ter em mente durante o decorrer desse módulo.
 
 - **Data**: 15/10/2019.
 - **Materiais**:

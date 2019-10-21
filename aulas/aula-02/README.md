@@ -1,5 +1,5 @@
 # Aula 02
-Essa aula possui como objetivo apresentar alguns ajustes que podemos fazer em nosso modelo para evitarmos _overfitting_ (sobreajuste) e _underfitting_ (sub-ajuste). 
+Essa aula possui como objetivo apresentar alguns ajustes que podemos fazer em nosso modelo para evitarmos _overfitting_ (sobreajuste) e _underfitting_ (sub-ajuste).
 
 - **Data**: 17/10/2019.
 - **Materiais**:
