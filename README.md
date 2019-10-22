@@ -1,5 +1,5 @@
 ![imgs-logos-lais](imgs/logos/lais-logo.png)
-![imgs-logos-programacao](imgs/logos/escola-programacao-logo.png)
+![imgs-logos-ia](imgs/logos/escola-ia.png)
 
 # Módulo 6 - Treinamento
 Esse é o 6º módulo da trilha formativa do programa de **Desenvolvimento de Sistemas Inteligentes para Saúde**. Ao finalizar este módulo, o aluno conhecerá as principais técnicas de pré-treino e treino de um algoritmo de aprendizado de máquina, possibilitando-o criar soluções mais robustas para cada característica de problema.
